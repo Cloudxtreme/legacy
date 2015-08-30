@@ -1,0 +1,14 @@
+{
+	"Include": [
+		"../lib.json"
+	],
+	"Install": "/$ARCH/lib/",
+	"Library": "libhtml.a",
+	"Name": "libhtml",
+	"SourceFiles": [
+		"build.c",
+		"lex.c",
+		"strinttab.c",
+		"utils.c"
+	]
+}
