@@ -1,4 +1,4 @@
-# Legendary code inherited from Plan 9.
-This  repository contains a few tools that Harvey inherited from Plan 9.
+# Legacy Plan 9 code
 
-They have been written by great programmers and they are valuable both for historical reasons and for practical use, but we have to postpone their porting to Harvey since we need to focus on the core system.
+Legacy Plan 9 code that is yet to be ported to harvey.
+ 
